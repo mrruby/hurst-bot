@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@mathieuc/tradingview": "^3.3.0",
     "axios": "^0.27.2",
     "ccxt": "^1.84.51",
     "dotenv": "^16.0.1"
